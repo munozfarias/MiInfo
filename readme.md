@@ -1,1 +1,1 @@
-Ejercicio básico de Java segpun lo requerido.
+Ejercicio básico de Java según lo requerido.
